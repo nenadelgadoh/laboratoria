@@ -1,0 +1,36 @@
+nav ul{
+	list-style-type: none;	
+	text-align: center;
+	margin: 0 auto;
+}
+nav li{
+	display: inline-block;
+	font-size: 14px;
+	margin: 5px;
+}
+span.re{
+	display: inline-block;
+}
+div.in{
+	width: 200px;
+	height: 20px;
+	border: solid black 1px;
+	margin-left: 600px;
+}
+h3{
+	font-size: 12px;
+	margin: 0 auto;
+	color: gray;
+}
+div.inicio{
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+}
+.estilo{
+	padding-top: 31px;
+}
+button{
+	margin-top: 8px;
+	margin-left: 155px;
+}
